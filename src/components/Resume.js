@@ -1,5 +1,5 @@
 import React from 'react';
-import resumePDF from '../assets/resume.pdf'; // move import to top
+import resumePDF from '../assets/resume.pdf'; 
 
 const Resume = () => (
   <section id="resume" className="section">
